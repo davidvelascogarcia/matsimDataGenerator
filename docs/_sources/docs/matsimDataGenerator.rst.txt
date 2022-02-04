@@ -1,0 +1,7 @@
+matsimDataGenerator module
+==========================
+
+.. automodule:: matsimDataGenerator
+   :members:
+   :undoc-members:
+   :show-inheritance:
